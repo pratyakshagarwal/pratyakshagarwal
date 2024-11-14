@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hi there, It's Pratyaksh Agarwal👋
+
+I'm an self-taught data scientist
 
 - 🔭 I’m currently working on a AI project that aims to build a trading bot using reinforcement learning
 - 🌱 I’m currently learning how to apply artifical intelligence into finance
