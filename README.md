@@ -34,7 +34,7 @@ I'm a self-taught data scientist with a passion for AI in finance.
 
 ---
 
-- 🔭 **Current Project:** Building a trading bot using machine learning and deep learning 
+- 🔭 **Current Project:** Building A Trading bot using AFML 
 - 🌱 **Learning Focus:** Applying artificial intelligence in finance
 - 👯 **Collaboration:** Open to project collaborations! [Reach out here.](mailto:pratyakshagarwal93@gmail.com)
 
