@@ -1,7 +1,6 @@
 ## Hi there, It's Pratyaksh Agarwal 👋
 
-I'm a self-taught data scientist with a passion for AI in finance.
-
+I'm a self-taught data scientist with a passion for AI.
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/pratyaksh-agarwal-3673b7282/)
 [![Twitter](https://img.shields.io/badge/-Twitter-blue?style=flat&logo=twitter&logoColor=white)](https://x.com/pratyaksh_agrwl)
 [![LeetCode](https://img.shields.io/badge/-LeetCode-orange?style=flat&logo=leetcode&logoColor=white)](https://leetcode.com/u/pratyaksh0/)
