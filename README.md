@@ -7,6 +7,14 @@ AI/DL Engineer⠀|⠀Building ML systems that remove friction from workflows
 
 ---
 
+---
+
+- 🔭 **Current Project:** Working on AP Invoice Automation Pipeline! 
+- 🌱 **Learning Focus:** Applying artificial intelligence in various domains
+- 👯 **Collaboration:** Open to project collaborations! [Reach out here.](mailto:pratyakshagarwal93@gmail.com)
+
+---
+
 ### Languages and Tools
 ![Python](https://img.shields.io/badge/-Python-333?style=flat&logo=python)
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-orange?style=flat&logo=tensorflow)
@@ -30,14 +38,6 @@ AI/DL Engineer⠀|⠀Building ML systems that remove friction from workflows
 ![CI/CD](https://img.shields.io/badge/-CI%2FCD-blue?style=flat&logo=github-actions)
 ![DVC](https://img.shields.io/badge/-DVC-945DD6?style=flat&logo=dvc)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code)
-
----
-
-- 🔭 **Current Project:** Building A Adpative Testing Engine Using Langgraph and Agentic AI 
-- 🌱 **Learning Focus:** Applying artificial intelligence in various domains
-- 👯 **Collaboration:** Open to project collaborations! [Reach out here.](mailto:pratyakshagarwal93@gmail.com)
-
----
 
 ### GitHub Stats
 ![Pratyaksh's GitHub stats](https://github-readme-stats.vercel.app/api?username=pratyakshagarwal&show_icons=true&theme=radical)
