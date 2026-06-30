@@ -7,8 +7,6 @@ AI/DL Engineer⠀|⠀Building ML systems that remove friction from workflows
 
 ---
 
----
-
 - 🔭 **Current Project:** Working on AP Invoice Automation Pipeline! 
 - 🌱 **Learning Focus:** Applying artificial intelligence in various domains
 - 👯 **Collaboration:** Open to project collaborations! [Reach out here.](mailto:pratyakshagarwal93@gmail.com)
